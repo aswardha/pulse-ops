@@ -43,28 +43,28 @@ This project intentionally avoids mock APIs and static data to better resemble *
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
-- **React 18**
-- **TypeScript**
-- **Tailwind CSS**
-- **Framer Motion**
-- **React Router**
-- **Vite**
+- **React 18**  
+- **TypeScript**  
+- **Tailwind CSS**  
+- **Framer Motion**  
+- **React Router**   
+- **Vite**  
 
 ---
 
 ## 📁 Project Structure
 
-src/
-├─ components/ # Reusable UI components
-├─ hooks/ # Custom React hooks
-├─ pages/ # Application pages
-├─ services/ # WebSocket simulation layer
-├─ utils/ # Utility helpers
-├─ App.tsx
-├─ main.tsx
-└─ index.css
+src/  
+├─ components/ # Reusable UI components  
+├─ hooks/ # Custom React hooks  
+├─ pages/ # Application pages  
+├─ services/ # WebSocket simulation layer  
+├─ utils/ # Utility helpers  
+├─ App.tsx  
+├─ main.tsx  
+└─ index.css  
 
 ---
 
