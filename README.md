@@ -106,14 +106,14 @@ There are no unnecessary or distracting animations.
 ### Install dependencies
 
 npm install     
-Start development server
-npm run dev
+Start development server  
+npm run dev   
 Open http://localhost:5173
 
-👤 Author
-Aswardha Medavaram
+👤 Author  
+Aswardha Medavaram   
 Full Stack Developer
 
-📌 Notes
-This project is frontend-only by design.
+📌 Notes  
+This project is frontend-only by design.   
 The focus is on architecture, realism, and operational UX, not backend implementation.
