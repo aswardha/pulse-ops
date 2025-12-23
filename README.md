@@ -105,10 +105,8 @@ There are no unnecessary or distracting animations.
 
 ### Install dependencies
 
-npm install
+npm install     
 Start development server
-bash
-Copy code
 npm run dev
 Open http://localhost:5173
 
